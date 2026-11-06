@@ -1,4 +1,3 @@
-
 print("Basic Calculator")
 
 operation = input("Choose an operation (+, -, *, /, //): ")
