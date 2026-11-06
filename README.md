@@ -33,3 +33,19 @@ A simple command-line calculator built using Python.
 - Arithmetic operations
 - Type conversion
 - Basic error handling
+
+  ## Testing
+
+The calculator was executed and tested in Kali Linux using Python 3.
+
+The following test cases were verified:
+
+| Test | Expected Result | Status |
+|---|---|---|
+| Addition | 15.0 | Passed |
+| Subtraction | 5.0 | Passed |
+| Multiplication | 50.0 | Passed |
+| Division | 2.0 | Passed |
+| Floor division | 3.0 | Passed |
+| Division by zero | Error message | Passed |
+| Invalid operator | Error message | Passed |
